@@ -69,7 +69,7 @@
   list-style-type: none;
 }
 .ql-editor ul > li::before {
-  content: '\2022';
+  content: '\  ';
 }
 .ql-editor ul[data-checked=true],
 .ql-editor ul[data-checked=false] {
